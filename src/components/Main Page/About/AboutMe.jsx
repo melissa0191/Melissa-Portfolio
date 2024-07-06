@@ -14,12 +14,14 @@ const AboutMe = () => {
                 <div className={`${styles.aboutContent}`}>
                     <div className={`${styles.aboutContentMain}`}>
                         <h2 className={styles.contentTitle}>Get to know me!</h2>
-                        <p className={`${styles.bio}`}>Hello World! My name is Evelyn Valles, 
-                        and I am a full-stack developer from Oklahoma City. I have a passion for building websites 
-                        and solving real-world challenges. My goal as a full-stack developer is to produce
-                        innovative, safe, and clean code to any I projects participate in or create. As a result, I continously
-                        work on learning something new every day. Outside of work, I am either traveling, playing video games,
-                        or exploring the beauty of our fascinating planet.
+                        <p className={`${styles.bio}`}>Hello World! My name is Melissa Velasquez Greene, 
+                        and I am a full-stack developer from South Carolina. I am a and recent graduate of Flatiron School! 
+                        Previously, I attended ISA College, earning my BS in Agricultural Engineering. During my time 
+                        at ISA, I worked at LB Foods as a Quality Analyst for Fruits and Vegetables Exportation. 
+                        I thoroughly enjoyed my tenure at LB Foods as it provided me with invaluable insights into the
+                        workings of the exportation and production industry. Following my graduation from ISA, I pursued
+                        a AS in Hotel Management at Caribbean University, where I gained a comprehensive understanding of 
+                        hotel operations, management principles, and guest services.
                         </p>
                         <p className={`${styles.bio}`}>
                         I'm open to job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then 

@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from "../Contact/Contact.module.css"
 import ContactForm from './ContactForm'
-import headShot from "../../../assets/evelyn.jpg"
+import headShot from "../../../assets/melissa.png"
 
 const Contact = () => {
 
@@ -13,7 +13,7 @@ const Contact = () => {
                 soon as possible!</p>
                 <div className={`${styles.contactBox}`}>
                     <div className={`${styles.colOne} ${styles.headShotBox}`}>
-                        <img src={headShot} alt="Evelyn Valles" className={styles.headShot}/>
+                        <img src={headShot} alt="Melissa Velasquez Greene" className={styles.headShot}/>
                     </div>
                     <div className={`${styles.colOne}`}>
                         <ContactForm />
