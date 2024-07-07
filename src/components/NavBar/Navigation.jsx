@@ -23,7 +23,7 @@ const Navigation = () => {
         <div className={`${styles.fixedTop} ${color ? styles.headerTwo : styles.header} ${location.pathname === '/resume' && styles.headerTwo}`} 
         id="header">
             <div>
-                <Link to="/" className={styles.logo}>Evelyn Valles</Link>
+                <Link to="/" className={styles.logo}>Melissa Velasquez Greene</Link>
             </div>
             <NavLinks />
         </div>

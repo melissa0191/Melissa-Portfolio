@@ -9,11 +9,11 @@ const PortfolioWeb = (props) => {
         <div className={styles.portfolio}>
             <div className={styles.sideTabs}>
                 <div className={`${styles.tabs} ${styles.hvrShrink} ${props.toggleState === 1 && styles.activeTab}`}
-                onClick={() => props.toggleTab(1)}>Travel.com</div>
+                onClick={() => props.toggleTab(1)}>Gourmet Guidebook</div>
                 <div className={`${styles.tabs} ${styles.hvrShrink} ${props.toggleState === 2 && styles.activeTab}`}
-                onClick={() => props.toggleTab(2)}>SneakerHead</div>
+                onClick={() => props.toggleTab(2)}>Dance Party Playlist</div>
                 <div className={`${styles.tabs} ${styles.hvrShrink} ${props.toggleState === 3 && styles.activeTab}`}
-                onClick={() => props.toggleTab(3)}>CodeLifter</div>
+                onClick={() => props.toggleTab(3)}>Vacation Time</div>
             </div>
             <div className={`${styles.box}`}>
                 <Projects toggleState={props.toggleState}/>
