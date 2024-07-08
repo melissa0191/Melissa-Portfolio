@@ -6,7 +6,7 @@ const HomeSection = () => {
     <div className={styles.homeBackground}>
       <div className={styles.homeContainer} id="home">
         <h1>
-          <span>Melissa Velasquez</span>
+          <span>Melissa Velasquez Greene</span>
         </h1>
         <h2>
           <span id={styles.intro}>Hello, I'm a full-stack developer</span>
