@@ -13,14 +13,14 @@ const Resume = () => {
                             <h1 className={styles.header}>Resume</h1>
                             <p className={styles.top}>
                                 Reach out to me via my <a target="_blank" href="https://www.linkedin.com/in/melissavg/" rel="noopener noreferrer">
-                                        LinkedIn</a>! <a target="_blank" href="https://drive.google.com/file/d/1cGlgQHpdBsA1v7bWoDas6lVJ9H0zeSNs/view?usp=sharing" rel="noopener noreferrer">
+                                        LinkedIn</a>! <a target="_blank" href="https://docs.google.com/document/d/1Wb6T3dppMqeIbTMr-8DrlBWamthJ_Af1Y5TjfXalyZA/edit?usp=sharing" rel="noopener noreferrer">
                                     view
-                                </a> or <a href="https://drive.google.com/uc?id=1cGlgQHpdBsA1v7bWoDas6lVJ9H0zeSNs&export=download">
+                                </a> or <a href="https://drive.google.com/file/d/14zpV6w2vfDhpzutGZShJEPY8XcB9fyL4/view?usp=download">
                                     download
                                 </a> the resume.
                             </p>
                         </article>
-                        <iframe src="https://drive.google.com/file/d/1cGlgQHpdBsA1v7bWoDas6lVJ9H0zeSNs/preview" className={styles.resumeDoc} allow="autoplay" title="Melissa's Resume 2024"></iframe>
+                        <iframe src="https://docs.google.com/document/d/1Wb6T3dppMqeIbTMr-8DrlBWamthJ_Af1Y5TjfXalyZA/preview" className={styles.resumeDoc} allow="autoplay" title="Melissa's Resume 2024"></iframe>
                     </div>
                 </div>
             </div>
