@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://github.com/melissa0191",
+  "homepage": "https://github.com/melissa0191/Melissa-Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
